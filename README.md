@@ -1,28 +1,46 @@
-# Project 5 – K-Means Clustering
+🧠 Proyecto IA Bloque 5: K-Means Clustering Example
+This project demonstrates a basic example of K-Means Clustering using synthetic data.
 
-This project demonstrates unsupervised learning using the K-Means clustering algorithm to group synthetic data points into clusters.
+📂 Contents
+kmeans_clustering.py: Python script implementing K-Means clustering.
 
-## Technologies
-- Python
-- scikit-learn
-- matplotlib
-- numpy
+.gitignore: Git ignore rules.
 
-## How to run
-1. Install dependencies:
-   ```
-   pip install scikit-learn matplotlib numpy
-   ```
+README.md: This documentation.
 
-2. Run the script:
-   ```
-   python kmeans_clustering.py
-   ```
+📊 What It Does
+The script:
 
-## Output
-The script generates a scatter plot showing the clustered groups with their centroids.
+Generates random synthetic data points.
 
-## Challenge (For Ferran!)
-✅ Change the number of clusters (try 3 or 5)  
-✅ Change the dataset generation parameters (e.g., cluster_std, n_samples)  
-✅ Compare how the clustering results change
+Applies the K-Means clustering algorithm to group the data.
+
+Visualizes the clustered data using a scatter plot.
+
+⚙️ Technologies Used
+Python 3.9
+
+scikit-learn
+
+numpy
+
+matplotlib
+
+💼 Real-World Use Cases
+K-Means is commonly used for:
+
+Customer segmentation (e.g., by purchase behavior).
+
+Product categorization.
+
+Market analysis.
+
+Pattern discovery in datasets.
+
+🚀 How to Run
+bash
+Copy
+Edit
+python kmeans_clustering.py
+🔗 Author
+Ferran Calvo (Ferrancalvo96)
