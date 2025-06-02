@@ -1,9 +1,5 @@
 # **K-Means Clustering Project**
 
-📁 **Repository:** proyecto_ia_bloque5  
-👤 **Author:** Ferran Calvo Eman  
-📅 **Date:** June 2025  
-
 ---
 
 ## **📌 Project Overview**
